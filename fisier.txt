@@ -1,0 +1,5 @@
+AV 122 Cluj Istanbul 22.08.2020 100 100 nu
+AV 111 Bucuresti Roma 12.08.2020 200 200 nu
+AU 112 Dej Gherla 30.08.2020 50 50 1
+AU 126 Gherla Sibiu 12.08.2020 60 56 1
+AV 200 Dej Gherla 23.03.2021 333 222 1
